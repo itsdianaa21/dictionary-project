@@ -32,7 +32,7 @@ export default function Dictionary() {
               type="search"
               onChange={handleKeywordChange}
               placeholder="Enter a word"
-              className="search-word"
+              className="search-box"
             />
           </div>
         </form>

@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <header>
           <h1>Diana's Dictionary</h1>
-        </header>{" "}
+        </header>
         <main>
           <Dictionary />
         </main>
