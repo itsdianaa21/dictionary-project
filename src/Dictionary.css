@@ -1,3 +1,13 @@
 .Dictionary {
-    color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+.Dictionary .search-box {
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+  border-color: rgb(192, 125, 255);
+}
+.Dictionary .search-word {
+  background-color: rgb(192, 125, 255);
 }
