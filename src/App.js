@@ -13,8 +13,22 @@ function App() {
         </main>
         <footer>
           <small>
-            Coded by Diana Menendez,
-            <a href="https://github.com/itsdianaa21/dictionary-project.git"> open-sourced </a> on github.
+            Coded by Diana Menendez, is{" "}
+            <a
+              href="https://github.com/itsdianaa21/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-source
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://main--melodious-kataifi-17a090.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
           </small>
         </footer>
       </div>

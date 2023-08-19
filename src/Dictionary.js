@@ -10,7 +10,7 @@ export default function Dictionary() {
   function handleResponse(response) {
     setResults(response.data);
   }
-    
+  
   function search(event) {
     event.preventDefault();
     // Documentation (SheCodes) API: https://api.shecodes.io/dictionary
