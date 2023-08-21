@@ -9,7 +9,7 @@ function App() {
           <h1>Diana's Dictionary</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Hello" />
         </main>
         <footer>
           <small>

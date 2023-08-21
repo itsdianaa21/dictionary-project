@@ -4,7 +4,7 @@ body {
 
 .App header {
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px 0;
   display: block;
   text-align: center;
   max-width: 400px;
@@ -17,13 +17,13 @@ body {
   font-weight: 600;
 }
 
-h1 {
+.App h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
   font-weight: 900;
-  font-size: 18px;
+  font-size: 21px;
   border: 5px solid black;
-  margin: 0 auto;
+  margin: 5px;
   padding: 35px;
   background: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
